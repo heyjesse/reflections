@@ -13,8 +13,14 @@ think works.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+move things over to the staging area.  Get it all set, do some last minute comparisons
+to make sure it is all good and then you can commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Well if I try adding a new feature I'm uncertain will work or if I'm experimenting with a 
+new style of coding or new libraries that I'm not sure will work.
 
 How do the diagrams help you visualize the branch structure?
 
