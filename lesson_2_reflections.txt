@@ -24,6 +24,8 @@ new style of coding or new libraries that I'm not sure will work.
 
 How do the diagrams help you visualize the branch structure?
 
+The make it so you can follow along with all the commits and work being done.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
